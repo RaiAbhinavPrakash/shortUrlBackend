@@ -1,0 +1,23 @@
+{
+  "name": "shorturlbackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.3",
+    "nanoid": "^3.0.0",
+    "nodemon": "^3.1.4",
+    "short-unique-id": "^5.2.0",
+    "shorturl": "^0.0.3",
+    "uuid": "^10.0.0"
+  }
+}
